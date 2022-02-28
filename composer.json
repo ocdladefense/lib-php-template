@@ -11,5 +11,8 @@
         "preferred-install": {
             "ocdladefense/*": "source"
         }
+    },
+    "autoload": {
+        "classmap": ["src/"]
     }
 }
