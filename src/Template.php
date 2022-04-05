@@ -21,6 +21,11 @@ class Template {
 		return $content;
 	}
 
+	
+	public static function render($path, $vars = array()) {
+		return self::renderTemplate($path, $vars);
+	}
+
 
 
 }
