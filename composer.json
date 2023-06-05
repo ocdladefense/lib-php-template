@@ -7,6 +7,11 @@
             "email": "jbernal.web.dev@gmail.com"
         }
     ],
+    "extra": {
+	"branch-alias": {
+		"dev-main": "1.x-dev"
+	}
+	},
     "config": {
         "preferred-install": {
             "ocdladefense/*": "source"
