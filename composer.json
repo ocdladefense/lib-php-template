@@ -13,11 +13,6 @@
             "dev-development": "2.0.x-dev"
         }
     },
-    "config": {
-        "preferred-install": {
-            "ocdladefense/*": "source"
-        }
-    },
     "autoload": {
         "classmap": ["src/"]
     }
